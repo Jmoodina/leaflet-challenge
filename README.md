@@ -8,6 +8,8 @@ In this repository, we tackle the challenge of developing cutting-edge visualiza
 ## Project Completion Overview
 This project successfully visualizes earthquake data sourced from the USGS GeoJSON Feed. Leveraging Leaflet, a dynamic map was created to plot earthquakes based on latitude and longitude. The data markers are strategically designed to reflect earthquake magnitude through size and depth through color intensity.
 
+![image](https://github.com/Jmoodina/leaflet-challenge/assets/141544196/fe8a593c-a595-46d7-b99b-2b5241e36f82)
+
 ### Key Features:
 1. Data Integration:
 Accessed real-time earthquake data from the USGS GeoJSON Feed, ensuring up-to-date information for visualization.
