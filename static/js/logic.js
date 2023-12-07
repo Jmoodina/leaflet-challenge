@@ -1,3 +1,4 @@
+// Grab 2 weeks worth of earthquake data
 let url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 
 // Create the map
