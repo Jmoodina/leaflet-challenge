@@ -1,7 +1,7 @@
 # leaflet-challenge
-![1-Logo](https://github.com/Jmoodina/leaflet-challenge/assets/141544196/932a199f-7d18-457d-9ef3-860b677cf54d)
 
 ## Introduction
+![1-Logo](https://github.com/Jmoodina/leaflet-challenge/assets/141544196/932a199f-7d18-457d-9ef3-860b677cf54d)
 Welcome to the USGS Earthquake Data Visualization project! The United States Geological Survey (USGS) plays a crucial role in providing scientific insights into natural hazards, environmental health, and the impacts of climate change. As stewards of vast amounts of global earthquake data, the USGS recognizes the need for innovative tools to effectively visualize and communicate their findings.
 
 In this repository, we tackle the challenge of developing cutting-edge visualization tools for USGS earthquake data. Our mission is to create a meaningful and informative platform that not only educates the public but also serves as a valuable resource for government organizations. Through this initiative, we aim to contribute to a better understanding of our planet's seismic activities and garner support for essential research and initiatives. Explore, contribute, and join us in making a positive impact through data-driven insights.
