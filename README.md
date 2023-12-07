@@ -6,6 +6,13 @@ Welcome to the USGS Earthquake Data Visualization project! The United States Geo
 
 In this repository, we tackle the challenge of developing cutting-edge visualization tools for USGS earthquake data. Our mission is to create a meaningful and informative platform that not only educates the public but also serves as a valuable resource for government organizations. Through this initiative, we aim to contribute to a better understanding of our planet's seismic activities and garner support for essential research and initiatives. Explore, contribute, and join us in making a positive impact through data-driven insights.
 
+## Instructions
+### Earthquake Visualization:
+Develop an interactive earthquake map using the USGS GeoJSON Feed. Choose a dataset, employ Leaflet for map creation, and customize markers for magnitude and depth. Ensure a user-friendly experience with informative popups and a clear legend.
+
+### Gather and Plot More Data:
+Explore additional earthquake datasets from the USGS GeoJSON Feed to enrich your visualization. Optionally integrate these datasets to enhance seismic activity exploration, although no extra points are awarded for this step.
+
 ## Project Completion Overview
 This project successfully visualizes earthquake data sourced from the USGS GeoJSON Feed. Leveraging Leaflet, a dynamic map was created to plot earthquakes based on latitude and longitude. The data markers are strategically designed to reflect earthquake magnitude through size and depth through color intensity.
 
